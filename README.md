@@ -4,10 +4,6 @@ Ember One is a personal color scheme collected in one place. This repository is
 the home for its palette, theme configurations, installation notes, and visual
 references.
 
-The repository follows the organization of [Flexoki][flexoki]: each supported
-app or tool gets a top-level directory, while shared project assets live in
-underscore-prefixed directories.
-
 ## Themes
 
 | App or tool | Variants | Directory |
