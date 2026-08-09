@@ -1,0 +1,63 @@
+theme = "custom"
+
+[custom_theme]
+base = "github-light-default"
+label = "Ember One Light"
+
+background = "#F7F5F0"
+panel = "#F0EEE8"
+panelAlt = "#E7E4DC"
+border = "#C8C2B7"
+
+accent = "#A9561F"
+accentMuted = "#D7E2EF"
+
+text = "#2D333B"
+muted = "#595E66"
+
+contextBg = "#F7F5F0"
+contextContentBg = "#F7F5F0"
+
+addedBg = "#EAF1E4"
+addedContentBg = "#DDEAD5"
+addedSignColor = "#527524"
+
+removedBg = "#F6E6E8"
+removedContentBg = "#EFD7DB"
+removedSignColor = "#C43E55"
+
+movedAddedBg = "#E2EFEB"
+movedRemovedBg = "#F1E1E8"
+
+lineNumberBg = "#F0EEE8"
+lineNumberFg = "#7A746B"
+
+selectedHunk = "#D7E2EF"
+
+badgeAdded = "#527524"
+badgeRemoved = "#C43E55"
+badgeNeutral = "#595E66"
+
+fileNew = "#527524"
+fileDeleted = "#C43E55"
+fileRenamed = "#8A6D00"
+fileModified = "#286DAE"
+fileUntracked = "#7D4DB3"
+
+noteBorder = "#7D4DB3"
+noteBackground = "#F0EEE8"
+noteTitleBackground = "#E7E4DC"
+noteTitleText = "#171B21"
+
+[custom_theme.syntax]
+default = "#2D333B"
+keyword = "#C43E55"
+string = "#527524"
+comment = "#6A716B"
+number = "#A9561F"
+function = "#286DAE"
+property = "#0A756F"
+type = "#8A6D00"
+variable = "#2D333B"
+operator = "#7D4DB3"
+punctuation = "#595E66"

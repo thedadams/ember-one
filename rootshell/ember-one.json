@@ -1,0 +1,27 @@
+{
+  "name": "Ember One",
+  "author": "Donnie Adams",
+  "colors": {
+    "background": "#20242C",
+    "foreground": "#E1E6EC",
+    "cursor": "#E1E6EC",
+    "cursorAccent": "#20242C",
+    "selection": "#3F4F66",
+    "black": "#191D24",
+    "red": "#EA5670",
+    "green": "#99C45C",
+    "yellow": "#DDBB52",
+    "blue": "#5FAAF7",
+    "magenta": "#B96EF2",
+    "cyan": "#36CDBB",
+    "white": "#E1E6EC",
+    "brightBlack": "#7F8998",
+    "brightRed": "#F27C91",
+    "brightGreen": "#AED97A",
+    "brightYellow": "#E7C96A",
+    "brightBlue": "#84C1FF",
+    "brightMagenta": "#C996F5",
+    "brightCyan": "#65E0D2",
+    "brightWhite": "#F5F7FA"
+  }
+}
