@@ -1,0 +1,27 @@
+{
+  "name": "Ember One Light",
+  "author": "Donnie Adams",
+  "colors": {
+    "background": "#F7F5F0",
+    "foreground": "#2D333B",
+    "cursor": "#A9561F",
+    "cursorAccent": "#F7F5F0",
+    "selection": "#D7E2EF",
+    "black": "#171B21",
+    "red": "#C43E55",
+    "green": "#527524",
+    "yellow": "#8A6D00",
+    "blue": "#286DAE",
+    "magenta": "#7D4DB3",
+    "cyan": "#0A756F",
+    "white": "#A8A198",
+    "brightBlack": "#2D333B",
+    "brightRed": "#B72F49",
+    "brightGreen": "#47701E",
+    "brightYellow": "#7C6200",
+    "brightBlue": "#1F659F",
+    "brightMagenta": "#7442A4",
+    "brightCyan": "#08716C",
+    "brightWhite": "#F7F5F0"
+  }
+}
