@@ -11,6 +11,7 @@ values extend that color from pale `50` through deep `950` shades.
 
 | App or tool | Variants | Directory |
 | --- | --- | --- |
+| Flow | Dark and light | [`flow/`](flow/) |
 | Fresh | Dark and light | [`fresh/`](fresh/) |
 | Ghostty | Dark and light | [`ghostty/`](ghostty/) |
 | Hunk | Dark and light | [`hunk/`](hunk/) |
