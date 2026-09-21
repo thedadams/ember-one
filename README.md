@@ -16,7 +16,7 @@ values extend that color from pale `50` through deep `950` shades.
 | Hunk | Dark and light | [`hunk/`](hunk/) |
 | Neovim | Dark and light, adaptive | [`nvim/`](nvim/) |
 | rootshell | Dark and light | [`rootshell/`](rootshell/) |
-| Slack | Custom | [`slack/`](slack/) |
+| Slack | Dark and light, custom | [`slack/`](slack/) |
 | Telegram | Dark and light, cloud | [`telegram/`](telegram/) |
 | Terminal.app | Dark and light | [`terminal/`](terminal/) |
 | tuicr | Dark and light | [`tuicr/`](tuicr/) |

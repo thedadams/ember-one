@@ -2,16 +2,25 @@
 
 Slack custom themes are shared as a comma-separated list of four colors.
 
-## Install
+## Variants
 
-Copy the Ember One theme:
+### Ember One Dark
 
 ```text
 #20242C,#3F4F66,#99C45C,#EA5670
 ```
 
-In Slack on desktop, paste the theme into a conversation and send it. Select
-**Apply Slack theme** on the resulting message.
+### Ember One Light
+
+```text
+#F7F5F0,#D7E2EF,#527524,#C43E55
+```
+
+## Install
+
+Copy the dark or light theme above. In Slack on desktop, paste it into a
+conversation and send it. Select **Apply Slack theme** on the resulting
+message.
 
 The theme only changes your own Slack appearance. See Slack's [official theme
 documentation][themes] for custom-theme and sharing options.
