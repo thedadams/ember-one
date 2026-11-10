@@ -1,6 +1,5 @@
 {
   "name": "ember-one-light",
-  "extends": "builtin://light",
   "editor": {
     "bg": [247, 245, 240],
     "fg": [45, 51, 59],
@@ -28,7 +27,10 @@
     "bracket_rainbow_3": [125, 77, 179],
     "bracket_rainbow_4": [162, 61, 121],
     "bracket_rainbow_5": [10, 117, 111],
-    "bracket_rainbow_6": [196, 62, 85]
+    "bracket_rainbow_6": [196, 62, 85],
+    "current_line_number_fg": [23, 27, 33],
+    "gutter_separator_fg": [221, 217, 207],
+    "whitespace_indicator_selected_fg": [138, 146, 158]
   },
   "ui": {
     "tab_active_fg": [23, 27, 33],
@@ -95,11 +97,20 @@
     "status_error_indicator_hover_bg": [183, 47, 73],
     "status_error_indicator_hover_fg": [247, 245, 240],
     "tab_drop_zone_bg": [215, 226, 239],
-    "tab_drop_zone_border": [40, 109, 174]
+    "tab_drop_zone_border": [40, 109, 174],
+    "popup_selection_fg": [23, 27, 33],
+    "list_drop_target_bg": [221, 234, 213],
+    "file_explorer_directory_fg": [40, 109, 174],
+    "file_explorer_indicator_fg": [122, 116, 107]
   },
   "search": {
     "match_bg": [238, 224, 174],
-    "match_fg": [45, 51, 59]
+    "match_fg": [45, 51, 59],
+    "current_match_bg": [227, 203, 130],
+    "current_match_fg": {
+      "color": [23, 27, 33],
+      "modifier": ["bold"]
+    }
   },
   "diagnostic": {
     "error_fg": [196, 62, 85],

@@ -3,6 +3,11 @@
 Fresh loads one theme per JSON file, so this port provides separate dark and
 light files.
 
+Both files are standalone themes: they set every required color and do not
+`extends` a built-in, so any color they leave out falls back to another Ember
+One color rather than to Fresh's stock dark or light theme. They target Fresh
+0.5.8 or later.
+
 ## Install
 
 From the root of this repository on macOS or Linux:
